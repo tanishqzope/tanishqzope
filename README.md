@@ -34,7 +34,7 @@ I am a **Cybersecurity Professional** building the skills to engineer secure, ze
 
 - 🛡️ **Security Focus:** Penetration Testing, Vulnerability Research, SIEM Threat Monitoring, and Open Source Intelligence (OSINT).
 - ⚛️ **Research & Interests:** Deeply interested in Quantum Security, Post-Quantum Cryptography, and future-proofing data ecosystems.
-- 🚀 **Founder Mindset:** Founder of **ZOPE'S**, focusing strictly on software and SaaS zero-trust security infrastructure.
+- 🚀 **Tooling Developer:** Creator of **TDE-Tool**, an open-source data encryption utility published on PyPI for developers and security professionals.
 - 🎯 **Open To:** Cybersecurity Engineering Roles, Vulnerability Research, and Blue Team Operations.
 
 <br/>
@@ -83,19 +83,19 @@ I am a **Cybersecurity Professional** building the skills to engineer secure, ze
 ## ✧ Featured Projects
 
 <details>
-<summary><b>🟣 ZOPE'S (Zero-Trust, Operations & Post-quantum Encryption Solutions)</b></summary>
+<summary><b>🟣 TDE-Tool (Terminal Data Encryption)</b></summary>
 <br/>
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, Post-Quantum Crypto Algorithms |
-| **Scale/Difficulty** | Enterprise SaaS Infrastructure / Highly Complex |
-| **Performance** | High-throughput secure operations and minimal latency |
-| **Security** | Zero-Trust Architecture, Future-proof Encryption |
-| **Impact** | Pioneering software/SaaS zero-trust security infrastructure |
-| **Repository** | *Proprietary / In-Development* |
+| **Stack** | Python, Cryptography |
+| **Scale/Difficulty** | Open-Source Security Utility |
+| **Performance** | Fast and lightweight terminal-based encryption |
+| **Security** | Advanced encryption standards |
+| **Impact** | Published on PyPI to provide secure data handling |
+| **Repository** | [View on GitHub](https://github.com/tanishqzope/TDE-Tool) \| [View on PyPI](https://pypi.org/project/tde/) |
 
-> *A strategic enterprise-grade initiative focusing strictly on delivering software and SaaS zero-trust security infrastructure. Designed from the ground up to incorporate post-quantum cryptographic resilience and robust access control matrices.*
+> *An open-source, Python-based terminal utility for robust data encryption. Published on PyPI (`pip install tde`), this tool allows developers and security professionals to securely encrypt and decrypt sensitive information directly from the command line.*
 
 </details>
 
@@ -284,7 +284,7 @@ I am a **Cybersecurity Professional** building the skills to engineer secure, ze
 
 ```yaml
 Learning: Post-Quantum Cryptography, Quantum Security Algorithms
-Building: ZOPE'S Zero-Trust Security Infrastructure
+Building: Open-Source Security Tools (TDE-Tool on PyPI)
 Exploring: Active Directory Kerberoasting Defense, Web Exploitation
 Open To: Cybersecurity Engineering Roles, Vulnerability Research, Blue Team
 ```
