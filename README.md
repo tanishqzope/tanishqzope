@@ -352,10 +352,10 @@ open_to:
   - Cybersecurity / Penetration Testing roles
   - SOC Analyst positions
   - Security research collaboration
+```
+---
 
-
-
-🤝 Connect
+## 🤝 Connect
 
 
 
@@ -383,4 +383,5 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=140&amp;section=footer" width="100%">
 
 
-```
+
+---
