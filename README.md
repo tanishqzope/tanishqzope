@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Tanishq%20Zope&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=70&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Tanishq%20Zope&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Security%20Researcher&descAlignY=70&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Full-Stack+Developer;Zero-Trust+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Penetration+Tester;Zero-Trust+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,13 +30,12 @@
 
 **I've rooted Android systems, bypassed WAFs, escalated to root on insane-difficulty HackTheBox machines — and I'm still in my diploma year.** 
 
-I am a **Cybersecurity Professional** and **Full-Stack Developer** building the skills to engineer secure, zero-trust architectures. I specialize in penetration testing, vulnerability assessment, and SIEM-based threat monitoring. I believe in learning by doing — not just reading about attacks, but executing them in labs, CTFs, and real enterprise environments where the pressure is real.
+I am a **Cybersecurity Professional** building the skills to engineer secure, zero-trust architectures. I specialize in penetration testing, vulnerability assessment, and SIEM-based threat monitoring. I believe in learning by doing — not just reading about attacks, but executing them in labs, CTFs, and real enterprise environments where the pressure is real.
 
 - 🛡️ **Security Focus:** Penetration Testing, Vulnerability Research, SIEM Threat Monitoring, and Open Source Intelligence (OSINT).
-- 💻 **Engineering:** Full-Stack Web Development utilizing React.js, Node.js, Python Flask, and MongoDB to build secure, scalable applications.
 - ⚛️ **Research & Interests:** Deeply interested in Quantum Security, Post-Quantum Cryptography, and future-proofing data ecosystems.
 - 🚀 **Founder Mindset:** Founder of **ZOPE'S**, focusing strictly on software and SaaS zero-trust security infrastructure.
-- 🎯 **Open To:** Cybersecurity Engineering Roles, Vulnerability Research, and Advanced Web Development Opportunities.
+- 🎯 **Open To:** Cybersecurity Engineering Roles, Vulnerability Research, and Blue Team Operations.
 
 <br/>
 
@@ -60,16 +59,8 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 ![Docker](https://img.shields.io/badge/Docker-111927?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-111927?style=for-the-badge&logo=openvpn&logoColor=EA7E20)
 
-### Frontend & Backend Web Development
-![React](https://img.shields.io/badge/React.js-111927?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111927?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-111927?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Python_Flask-111927?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111927?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-111927?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111927?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bash](https://img.shields.io/badge/BASH_Scripting-111927?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/PowerShell-111927?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
@@ -77,14 +68,13 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 
 ---
 
-## ✧ Cybersecurity & Full-Stack Expertise
+## ✧ Cybersecurity Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
 | **Offensive Security & Pentesting** | `Expert` | Bypassing WAFs, Buffer Overflow Payloads, SSRF, SQLi, XSS, CSRF, Docker Container Escapes. |
 | **Defensive Security & SIEM** | `Advanced` | Wazuh, Microsoft Sentinel, UFW/pfSense Firewall Architecture, CIS-CAT System Hardening. |
 | **Zero-Trust Models & Arch.** | `Advanced` | Active Directory Kerberoasting Defense, End-to-End Encryption, Post-Quantum Cryptography Concepts. |
-| **Full-Stack Web Development** | `Advanced` | Secure API Design, React.js, Node.js, Python Flask, MongoDB, JWT Auth, Input Sanitization. |
 
 <br/>
 
@@ -98,7 +88,7 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, React, Flask, Post-Quantum Crypto Algorithms |
+| **Stack** | Python, Post-Quantum Crypto Algorithms |
 | **Scale/Difficulty** | Enterprise SaaS Infrastructure / Highly Complex |
 | **Performance** | High-throughput secure operations and minimal latency |
 | **Security** | Zero-Trust Architecture, Future-proof Encryption |
@@ -106,40 +96,6 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 | **Repository** | *Proprietary / In-Development* |
 
 > *A strategic enterprise-grade initiative focusing strictly on delivering software and SaaS zero-trust security infrastructure. Designed from the ground up to incorporate post-quantum cryptographic resilience and robust access control matrices.*
-
-</details>
-
-<details>
-<summary><b>🟣 FileDrop</b></summary>
-<br/>
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React, Node.js, AES-256 Encryption |
-| **Scale/Difficulty** | Advanced Secure Networking Application |
-| **Performance** | Optimized low-latency transfer speeds |
-| **Security** | End-to-End Encryption, Zero-Trust Principles |
-| **Impact** | Facilitates highly secure, uncompromised file sharing |
-| **Repository** | [View on GitHub](https://github.com/tanishqzope) |
-
-> *A secure file-sharing platform engineered entirely around zero-trust principles. Implements robust end-to-end encryption protocols to ensure data sovereignty and absolute privacy during transit.*
-
-</details>
-
-<details>
-<summary><b>🟣 StudyBuddy</b></summary>
-<br/>
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React.js, Node.js, Express, MongoDB |
-| **Scale/Difficulty** | Full-Stack Web Application |
-| **Performance** | Scalable database schema, optimized queries |
-| **Security** | JWT Authentication, Strict Input Sanitization |
-| **Impact** | Seamless educational collaboration platform |
-| **Repository** | [View on GitHub](https://github.com/tanishqzope) |
-
-> *A complete full-stack web application designed to enhance student collaboration. Built with a modern React frontend and a robust Node/Express backend, ensuring data integrity and secure session management.*
 
 </details>
 
@@ -328,9 +284,9 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 
 ```yaml
 Learning: Post-Quantum Cryptography, Quantum Security Algorithms
-Building: ZOPE'S Software Infrastructure, FileDrop Web App
+Building: ZOPE'S Zero-Trust Security Infrastructure
 Exploring: Active Directory Kerberoasting Defense, Web Exploitation
-Open To: Cybersecurity Engineering Roles, Web Development Opportunities
+Open To: Cybersecurity Engineering Roles, Vulnerability Research, Blue Team
 ```
 
 <br/>
