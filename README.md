@@ -352,3 +352,35 @@ open_to:
   - Cybersecurity / Penetration Testing roles
   - SOC Analyst positions
   - Security research collaboration
+
+
+
+🤝 Connect
+
+
+
+  <img src="https://img.shields.io/badge/Gmail-tanishqzope5@gmail.com-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=1a1b27">
+
+
+
+  <img src="https://img.shields.io/badge/LinkedIn-tanishqzope-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=1a1b27">
+
+
+
+  <img src="https://img.shields.io/badge/GitHub-tanishqzope-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1a1b27">
+
+
+
+  <img src="https://img.shields.io/badge/Portfolio-tanishqzopeportfolio.netlify.app-8B5CF6?style=for-the-badge&amp;logo=netlify&amp;logoColor=white&amp;labelColor=1a1b27">
+
+
+
+
+
+
+
+"The quieter you become, the more you are able to hear."
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=140&amp;section=footer" width="100%">
+
+
+```
