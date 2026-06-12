@@ -328,7 +328,7 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/tanishqzope/README/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/tanishqzope/tanishqzope/output/github-snake-dark.svg)
 
 </div>
 
