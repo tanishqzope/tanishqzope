@@ -300,18 +300,6 @@ I am a **Cybersecurity Professional** and **Full-Stack Developer** building the 
 
 ---
 
-## ✧ GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tanishqzope&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/tanishqzope)
-
-</div>
-
-<br/>
-
----
-
 ## ✧ Contribution Activity
 
 <div align="center">
